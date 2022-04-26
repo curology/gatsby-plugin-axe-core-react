@@ -17,12 +17,12 @@
   },
   "homepage": "https://github.com/curology/gatsby-plugin-axe-core-react#readme",
   "devDependencies": {
+    "@axe-core/react": "^4.4.2",
     "axe-core": "^4.4.1",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },
   "peerDependencies": {
-    "@axe-core/react": "^4.4.2",
     "gatsby": "^4.4.0"
   }
 }
