@@ -47,6 +47,6 @@ The configuration object for axe-core.
 
 Used to specify which element should and which should not be tested.
 
-[**`debounce`**](https://www.npmjs.com/package/@axe-core/react#debouncing) [number][optional]
+[**`debounce`**](https://www.npmjs.com/package/@axe-core/react#debouncing) [number][optional][default: 1000]
 
 The number of milliseconds to wait for component updates to cease before performing an analysis of all the changes.
