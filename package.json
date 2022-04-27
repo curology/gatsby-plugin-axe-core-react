@@ -12,6 +12,10 @@
   ],
   "author": "Curology <engineering@curology.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curology/gatsby-plugin-axe-core-react.git"
+  },
   "bugs": {
     "url": "https://github.com/curology/gatsby-plugin-axe-core-react/issues"
   },
