@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-axe-core-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Gatsby plugin that checks @axe-core/react rules against Gatsby markup for accessibility testing",
   "keywords": [
     "gatsby",
